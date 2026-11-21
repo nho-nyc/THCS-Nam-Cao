@@ -1,0 +1,6 @@
+{
+  "name": "Trường THCS Nam Cao",
+  "description": "Cổng thông tin giới thiệu Trường THCS Nam Cao — Nơi nuôi dưỡng tri thức, chắp cánh tương lai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
